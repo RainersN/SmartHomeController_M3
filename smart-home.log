@@ -1,0 +1,514 @@
+2026-10-21 12:10:43 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:11:35 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:11:35 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:23:27 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:23:36 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:23:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:23:44 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:23:45 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:23:53 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:23:53 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:23:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:24:14 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:24:21 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:24:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:24:23 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:24:23 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:24:24 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:24:32 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:24:32 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:24:44 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:25:33 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:25:39 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:25:39 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:25:39 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:27:44 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:28:07 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:28:07 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 50%
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:07 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:09 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:21 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:22 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:28 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:28:33 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:28:43 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:28:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:30:27 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:33:19 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:33:19 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 50%
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:19 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:33:28 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:34:31 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:34:31 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 50%
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:31 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:34:34 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:35:58 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:35:58 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 90%
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=22,5 °C
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:58 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:35:59 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:36:46 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:36:55 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:37:01 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:37:01 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 90%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=22,5 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:37:01 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:40:50 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:40:50 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:40:50 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:40:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:44:05 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:44:05 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:44:05 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:44:05 ERROR c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' failed for device 'SENSOR_99'
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 90%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=22,5 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:05 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:44:50 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:44:50 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:44:50 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:44:50 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:54:40 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:54:40 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:54:40 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 90%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=22,5 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:54:40 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Device registered: [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=true
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' received for device 'LIGHT_01'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' received for device 'LIGHT_02'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_02]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' received for device 'THERMO_01'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [THERMO_01]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 90' received for device 'LIGHT_01'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_01]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' received for device 'LIGHT_03'
+2026-10-21 12:59:22 WARN  c.b.s.controller.HomeController - WARNING: Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:59:22 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LIGHT_03]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' received for device 'LOCK_02'
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [LOCK_02]
+2026-10-21 12:59:22 DEBUG c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' received for device 'SENSOR_99'
+2026-10-21 12:59:22 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - Command processing ended for device [SENSOR_99]
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - === Registered Devices (8/8) ===
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_01] Living Room Light    | online=true  | on=true | brightness= 90%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_02] Bedroom Light        | online=true  | on=true | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [THERMO_01] Main Thermostat      | online=true  | on=false | temp=22,5 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LOCK_01] Front Door Lock      | online=true  | on=false | locked=false
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_03] Kitchen Light        | online=false | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [THERMO_02] Bedroom Thermostat   | online=true  | on=false | temp=20,0 °C
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LIGHT_04] Hallway Light        | online=true  | on=false | brightness= 50%
+2026-10-21 12:59:22 INFO  c.b.s.controller.HomeController - [LOCK_02] Back Door Lock       | online=true  | on=false | locked=true
+2026-10-21 12:59:49 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
